@@ -1,2 +1,2 @@
 # archent-west-group
-http://kalita-roman.github.io/archent-west-group/
+https://kalita-roman.github.io/archent-west-group/
